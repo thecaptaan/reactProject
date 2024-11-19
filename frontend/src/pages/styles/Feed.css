@@ -1,0 +1,10 @@
+.in-layout {
+    width: 100%;
+    height: 100%;
+}
+
+.layout-item {
+    width: calc(100% - 350px);
+    height: 100%;
+    margin-left: 350px;
+}

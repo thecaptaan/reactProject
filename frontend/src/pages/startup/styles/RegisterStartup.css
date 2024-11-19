@@ -1,0 +1,14 @@
+.registerStartup {
+    width: 100%;
+}
+
+.register-startup-form {
+    width: 80%;
+    gap: 20px;
+}
+
+.register-startup-declaration {
+    gap: 10px;
+    font-size: 20px;
+    justify-content: flex-start;
+}

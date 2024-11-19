@@ -1,0 +1,20 @@
+.nav-top {
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.nav-top-item {
+    width: 90%;
+    height: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-top-icon {
+    width: 30px;
+    height: 30px;
+    color: #000;
+    margin-left: 20px;
+}
